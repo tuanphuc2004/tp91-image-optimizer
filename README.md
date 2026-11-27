@@ -16,6 +16,11 @@ Công cụ nén ảnh sang **WebP / JPEG / PNG**, cắt chuẩn **OG Image (`120
 - **Watermark chữ & Đóng gói ZIP:** Đóng dấu bản quyền góc dưới phải/giữa ảnh và tải tất cả thành file `.zip` bằng bộ tạo ZIP STORE thuần TypeScript (`createStoreZip`).
 - **So sánh Trước / Sau:** Modal đối chiếu ảnh gốc và ảnh sau nén trực quan.
 
+## Tài liệu đi kèm
+
+- **Hướng dẫn sử dụng chi tiết cho người dùng / bàn giao khách:** [`HUONG_DAN_SU_DUNG.md`](./HUONG_DAN_SU_DUNG.md)
+- **Skill chuẩn Antigravity / Claude Code:** [`SKILL.md`](./SKILL.md)
+
 ## Cài đặt & chạy local
 
 ```bash
